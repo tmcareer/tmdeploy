@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Recent graduate with a background in data analytics and spatial data science, looking to help provide actionable insights and build solutions with big data. I am excited to continue expanding my knowledge base and skills set in order to achieve my professional goals. I look forward to the journeys I will share with my co-workers in the near future. Please feel free to contact me to connect, or provide me with notice of any opportunities you believe I am suitable for.\n::: {#fig-mylabel layout-ncol=1}\n\n![](images/man-reading.svg){width=300}\n\nThis is a common caption.\n:::"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tyler Merrill",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \nRecent graduate with a background in data analytics and spatial data science, looking to help provide actionable insights and build solutions with big data.\nI am excited to continue expanding my knowledge base and skills set in order to achieve my professional goals. I look forward to the journeys I will share with my co-workers in the near future. Please feel free to contact me to connect, or provide me with notice of any opportunities you believe I am suitable for."
+  }
+]
